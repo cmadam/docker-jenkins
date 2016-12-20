@@ -3,7 +3,7 @@ git:latest
 git-client:latest
 git-server:latest
 github:latest
-github-api:latest
+github-api:1.80
 github-branch-source:latest
 docker-commons:latest
 docker-workflow:latest
